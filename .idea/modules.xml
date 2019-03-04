@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/family/family.iml" filepath="$PROJECT_DIR$/family/family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/family_view/family_view.iml" filepath="$PROJECT_DIR$/family_view/family_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/familycentral.iml" filepath="$PROJECT_DIR$/familycentral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks/tasks.iml" filepath="$PROJECT_DIR$/tasks/tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks_view/tasks_view.iml" filepath="$PROJECT_DIR$/tasks_view/tasks_view.iml" />
+    </modules>
+  </component>
+</project>

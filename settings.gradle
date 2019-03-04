@@ -1,0 +1,1 @@
+include ':app', ':family', ':family_view', ':tasks', ':tasks_view'
